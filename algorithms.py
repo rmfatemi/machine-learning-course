@@ -5,9 +5,6 @@ __email__ = "rmfatemi@gmail.com"
 import numpy as np
 import random
 import math
-
-
-# Only used to calculated mode in the array of labels (line 68)
 import scipy.stats as st
 
 
